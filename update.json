@@ -1,9 +1,9 @@
 {
-  "versionCode": 395,
-  "versionName": "4.0.5",
+  "versionCode": 396,
+  "versionName": "4.0.6",
   "downloadUrl": "https://github.com/AlexMohamedAfk/App/releases/download/app/app-debug.apk",
   "force": true,
   "title": "Update Required",
   "message": "A new version of SpaceX Engine is available. Please download and install to continue.",
-  "changelog": "All languages has been added - Fix Esp"
+  "changelog": "Menu improved"
 }
