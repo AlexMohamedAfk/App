@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "downloadUrl": "https://github.com/AlexMohamedAfk/App/raw/refs/heads/main/app-release.apk",
   "force": true,
   "title": "Update Required",
   "message": "A new version of SpaceX Engine is available. Please download and install to continue.",
-  "changelog": "Language added"
+  "changelog": "Fixed Drawing Problem"
 }
