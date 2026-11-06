@@ -5,5 +5,5 @@
   "force": true,
   "title": "Update Required",
   "message": "A new version of SpaceX Engine is available. Please download and install to continue.",
-  "changelog": "Fixed Drawing Problem"
+  "changelog": "Fixed Kernal drivers problem for all devices"
 }
