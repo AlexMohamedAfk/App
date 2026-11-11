@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
+  "versionCode": 16,
+  "versionName": "1.0.15",
   "downloadUrl": "https://github.com/AlexMohamedAfk/App/raw/refs/heads/main/app-release.apk",
   "force": true,
   "title": "Update Required",
   "message": "A new version of SpaceX Engine is available. Please download and install to continue.",
-  "changelog": "Fixed Kernal drivers problem for all devices"
+  "changelog": "New Ui Added, All lag fixed"
 }
