@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
+  "versionCode": 19,
+  "versionName": "1.0.18",
   "downloadUrl": "https://github.com/AlexMohamedAfk/App/raw/refs/heads/main/app-release.apk",
   "force": true,
   "title": "Update Required",
   "message": "A new version of SpaceX Engine is available. Please download and install to continue.",
-  "changelog": "Physx Visibility Check fixed , Server panel fixed"
+  "changelog": "Server panel fixed"
 }
